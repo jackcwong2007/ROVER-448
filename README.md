@@ -1,5 +1,5 @@
 Packages required to run server.js:
 
-Node-ping: [https://www.npmjs.com/package/ping]
+Node-ping: https://www.npmjs.com/package/ping
 
-local-devices: [https://www.npmjs.com/package/local-devices]
+local-devices: https://www.npmjs.com/package/local-devices
