@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "arpping": "^4.0.0",
+    "local-devices": "^4.0.0",
+    "ping": "^1.0.0"
+  }
+}
